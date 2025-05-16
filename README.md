@@ -11,7 +11,7 @@ Netflix Analysis Dashboard (Power BI) This project is a comprehensive analysis o
 
 4)Visuals: Donut Charts, Line Graphs, Bar Charts, Map Visualizations, Filters
 
-Files
+Find
 Power BI dashboard file link (view dashboard here): https://app.powerbi.com/view?r=eyJrIjoiYWNlODkyZTgtN2NhYS00ZmU1LTg1ZjMtMmNlMTIwOTFmMjBiIiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9
 
 
